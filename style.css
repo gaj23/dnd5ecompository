@@ -1,0 +1,44 @@
+html {
+    background-color: rgba(19, 18, 23, 1);
+    color: rgba(189, 218, 185, 1);
+}
+
+.head {
+    font-family: "Asul", 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 3rem;
+    margin: .25rem;
+}
+.description {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    padding-left: 20rem;
+    padding-right: 20rem;
+    margin: 0;
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 { 
+
+}
+
+ul { 
+
+}
+
+li {
+
+}
